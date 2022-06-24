@@ -1,0 +1,28 @@
+C:\Users\usr\source\repos\Logic simulator\Logic simulator\bin\Debug\netcoreapp3.1\Logic simulator.exe
+C:\Users\usr\source\repos\Logic simulator\Logic simulator\bin\Debug\netcoreapp3.1\Logic simulator.deps.json
+C:\Users\usr\source\repos\Logic simulator\Logic simulator\bin\Debug\netcoreapp3.1\Logic simulator.runtimeconfig.json
+C:\Users\usr\source\repos\Logic simulator\Logic simulator\bin\Debug\netcoreapp3.1\Logic simulator.runtimeconfig.dev.json
+C:\Users\usr\source\repos\Logic simulator\Logic simulator\bin\Debug\netcoreapp3.1\Logic simulator.dll
+C:\Users\usr\source\repos\Logic simulator\Logic simulator\bin\Debug\netcoreapp3.1\Logic simulator.pdb
+C:\Users\usr\source\repos\Logic simulator\Logic simulator\obj\Debug\netcoreapp3.1\Logic simulator.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\Logic simulator\Logic simulator\obj\Debug\netcoreapp3.1\Logic simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\Logic simulator\Logic simulator\obj\Debug\netcoreapp3.1\Logic simulator.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\Logic simulator\Logic simulator\obj\Debug\netcoreapp3.1\Logic simulator.AssemblyInfo.cs
+C:\Users\usr\source\repos\Logic simulator\Logic simulator\obj\Debug\netcoreapp3.1\Logic simulator.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\Logic simulator\Logic simulator\obj\Debug\netcoreapp3.1\Logic simulator.dll
+C:\Users\usr\source\repos\Logic simulator\Logic simulator\obj\Debug\netcoreapp3.1\Logic simulator.pdb
+C:\Users\usr\source\repos\Logic simulator\Logic simulator\obj\Debug\netcoreapp3.1\Logic simulator.genruntimeconfig.cache
+C:\Users\usr\Desktop\CS\Assignment 3\Repair\Logic simulator\Logic simulator\bin\Debug\netcoreapp3.1\Logic simulator.exe
+C:\Users\usr\Desktop\CS\Assignment 3\Repair\Logic simulator\Logic simulator\bin\Debug\netcoreapp3.1\Logic simulator.deps.json
+C:\Users\usr\Desktop\CS\Assignment 3\Repair\Logic simulator\Logic simulator\bin\Debug\netcoreapp3.1\Logic simulator.runtimeconfig.json
+C:\Users\usr\Desktop\CS\Assignment 3\Repair\Logic simulator\Logic simulator\bin\Debug\netcoreapp3.1\Logic simulator.runtimeconfig.dev.json
+C:\Users\usr\Desktop\CS\Assignment 3\Repair\Logic simulator\Logic simulator\bin\Debug\netcoreapp3.1\Logic simulator.dll
+C:\Users\usr\Desktop\CS\Assignment 3\Repair\Logic simulator\Logic simulator\bin\Debug\netcoreapp3.1\Logic simulator.pdb
+C:\Users\usr\Desktop\CS\Assignment 3\Repair\Logic simulator\Logic simulator\obj\Debug\netcoreapp3.1\Logic simulator.csproj.AssemblyReference.cache
+C:\Users\usr\Desktop\CS\Assignment 3\Repair\Logic simulator\Logic simulator\obj\Debug\netcoreapp3.1\Logic simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\Desktop\CS\Assignment 3\Repair\Logic simulator\Logic simulator\obj\Debug\netcoreapp3.1\Logic simulator.AssemblyInfoInputs.cache
+C:\Users\usr\Desktop\CS\Assignment 3\Repair\Logic simulator\Logic simulator\obj\Debug\netcoreapp3.1\Logic simulator.AssemblyInfo.cs
+C:\Users\usr\Desktop\CS\Assignment 3\Repair\Logic simulator\Logic simulator\obj\Debug\netcoreapp3.1\Logic simulator.csproj.CoreCompileInputs.cache
+C:\Users\usr\Desktop\CS\Assignment 3\Repair\Logic simulator\Logic simulator\obj\Debug\netcoreapp3.1\Logic simulator.dll
+C:\Users\usr\Desktop\CS\Assignment 3\Repair\Logic simulator\Logic simulator\obj\Debug\netcoreapp3.1\Logic simulator.pdb
+C:\Users\usr\Desktop\CS\Assignment 3\Repair\Logic simulator\Logic simulator\obj\Debug\netcoreapp3.1\Logic simulator.genruntimeconfig.cache
